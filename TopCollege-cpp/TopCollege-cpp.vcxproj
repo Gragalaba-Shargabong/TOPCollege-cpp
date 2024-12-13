@@ -24,6 +24,7 @@
     <ProjectGuid>{27526468-63da-4fb3-b265-3c047c74bd3c}</ProjectGuid>
     <RootNamespace>TopCollegecpp</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>TOPCollege-cpp</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
