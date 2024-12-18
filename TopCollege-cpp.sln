@@ -3,17 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TOPCollege-cpp", "TopCollege-cpp\TopCollege-cpp.vcxproj", "{27526468-63DA-4FB3-B265-3C047C74BD3C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TopCollege-cpp", "TopCollege-cpp\TopCollege-cpp.vcxproj", "{27526468-63DA-4FB3-B265-3C047C74BD3C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{2BDB702F-1B09-4272-A31E-11EB6E13C830}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "logicheskie vetvleniya", "logicheskie vetvleniya\logicheskie vetvleniya.vcxproj", "{DAF48291-FF23-4762-BC33-71039E54E71B}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cycles", "cycles\cycles.vcxproj", "{7DA0D154-138E-4E8D-8750-BAF86CE52FA9}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dolbannoe resheto eratosphena", "dolbannoe resheto eratosphena\dolbannoe resheto eratosphena.vcxproj", "{3F061D18-72E2-45F4-B99E-12B950C6DF21}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "massivi", "massivi\massivi.vcxproj", "{CC67EE5E-68FE-415C-9600-DBE2343DD367}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,38 +23,6 @@ Global
 		{27526468-63DA-4FB3-B265-3C047C74BD3C}.Release|x64.Build.0 = Release|x64
 		{27526468-63DA-4FB3-B265-3C047C74BD3C}.Release|x86.ActiveCfg = Release|Win32
 		{27526468-63DA-4FB3-B265-3C047C74BD3C}.Release|x86.Build.0 = Release|Win32
-		{DAF48291-FF23-4762-BC33-71039E54E71B}.Debug|x64.ActiveCfg = Debug|x64
-		{DAF48291-FF23-4762-BC33-71039E54E71B}.Debug|x64.Build.0 = Debug|x64
-		{DAF48291-FF23-4762-BC33-71039E54E71B}.Debug|x86.ActiveCfg = Debug|Win32
-		{DAF48291-FF23-4762-BC33-71039E54E71B}.Debug|x86.Build.0 = Debug|Win32
-		{DAF48291-FF23-4762-BC33-71039E54E71B}.Release|x64.ActiveCfg = Release|x64
-		{DAF48291-FF23-4762-BC33-71039E54E71B}.Release|x64.Build.0 = Release|x64
-		{DAF48291-FF23-4762-BC33-71039E54E71B}.Release|x86.ActiveCfg = Release|Win32
-		{DAF48291-FF23-4762-BC33-71039E54E71B}.Release|x86.Build.0 = Release|Win32
-		{7DA0D154-138E-4E8D-8750-BAF86CE52FA9}.Debug|x64.ActiveCfg = Debug|x64
-		{7DA0D154-138E-4E8D-8750-BAF86CE52FA9}.Debug|x64.Build.0 = Debug|x64
-		{7DA0D154-138E-4E8D-8750-BAF86CE52FA9}.Debug|x86.ActiveCfg = Debug|Win32
-		{7DA0D154-138E-4E8D-8750-BAF86CE52FA9}.Debug|x86.Build.0 = Debug|Win32
-		{7DA0D154-138E-4E8D-8750-BAF86CE52FA9}.Release|x64.ActiveCfg = Release|x64
-		{7DA0D154-138E-4E8D-8750-BAF86CE52FA9}.Release|x64.Build.0 = Release|x64
-		{7DA0D154-138E-4E8D-8750-BAF86CE52FA9}.Release|x86.ActiveCfg = Release|Win32
-		{7DA0D154-138E-4E8D-8750-BAF86CE52FA9}.Release|x86.Build.0 = Release|Win32
-		{3F061D18-72E2-45F4-B99E-12B950C6DF21}.Debug|x64.ActiveCfg = Debug|x64
-		{3F061D18-72E2-45F4-B99E-12B950C6DF21}.Debug|x64.Build.0 = Debug|x64
-		{3F061D18-72E2-45F4-B99E-12B950C6DF21}.Debug|x86.ActiveCfg = Debug|Win32
-		{3F061D18-72E2-45F4-B99E-12B950C6DF21}.Debug|x86.Build.0 = Debug|Win32
-		{3F061D18-72E2-45F4-B99E-12B950C6DF21}.Release|x64.ActiveCfg = Release|x64
-		{3F061D18-72E2-45F4-B99E-12B950C6DF21}.Release|x64.Build.0 = Release|x64
-		{3F061D18-72E2-45F4-B99E-12B950C6DF21}.Release|x86.ActiveCfg = Release|Win32
-		{3F061D18-72E2-45F4-B99E-12B950C6DF21}.Release|x86.Build.0 = Release|Win32
-		{CC67EE5E-68FE-415C-9600-DBE2343DD367}.Debug|x64.ActiveCfg = Debug|x64
-		{CC67EE5E-68FE-415C-9600-DBE2343DD367}.Debug|x64.Build.0 = Debug|x64
-		{CC67EE5E-68FE-415C-9600-DBE2343DD367}.Debug|x86.ActiveCfg = Debug|Win32
-		{CC67EE5E-68FE-415C-9600-DBE2343DD367}.Debug|x86.Build.0 = Debug|Win32
-		{CC67EE5E-68FE-415C-9600-DBE2343DD367}.Release|x64.ActiveCfg = Release|x64
-		{CC67EE5E-68FE-415C-9600-DBE2343DD367}.Release|x64.Build.0 = Release|x64
-		{CC67EE5E-68FE-415C-9600-DBE2343DD367}.Release|x86.ActiveCfg = Release|Win32
-		{CC67EE5E-68FE-415C-9600-DBE2343DD367}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

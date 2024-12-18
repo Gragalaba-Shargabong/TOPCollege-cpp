@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{cc67ee5e-68fe-415c-9600-dbe2343dd367}</ProjectGuid>
-    <RootNamespace>massivi</RootNamespace>
+    <ProjectGuid>{e92626d1-2c48-48a3-8dcf-be356d03f215}</ProjectGuid>
+    <RootNamespace>drevovidniestruct</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
